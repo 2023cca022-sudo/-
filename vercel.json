@@ -1,3 +1,0 @@
-git add .
-git commit -m "vercel.json 제거 (자동 감지 사용)"
-git push
