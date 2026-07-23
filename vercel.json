@@ -1,7 +1,3 @@
-{
-  "version": 2,
-  "builds": [
-    { "src": "index.html", "use": "@vercel/static" },
-    { "src": "api/generate.js", "use": "@vercel/node" }
-  ]
-}
+git add .
+git commit -m "vercel.json 제거 (자동 감지 사용)"
+git push
